@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "https://mystifying-curie-8264cb.netlify.app"
 title = "KWYK"
 theme = "airspace-hugo"
 # post pagination
@@ -57,10 +57,10 @@ name = "Service"
 URL = "service"
 weight = 3
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+# [[menu.main]]
+# name = "Blog"
+# URL = "blog"
+# weight = 4
 
 [[menu.main]]
 weight = 5
