@@ -1,13 +1,13 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/KWYKbg.jpg"
   title : "KWYK"
   content : "Music from the 90s and now"
   button:
     enable : true
     label : "Listen Now"
-    link : "project"
+    link : "https://radio.securenetsystems.net/cirrusencore/KNDN"
 
 ############################# About #################################
 about:

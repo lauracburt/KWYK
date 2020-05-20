@@ -47,40 +47,35 @@ name = "About"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "Project"
-URL = "project"
-weight = 2
+#[[menu.main]]
+#name = "DJs"
+#URL = "djs"
+#weight = 2
 
 [[menu.main]]
-name = "Service"
-URL = "service"
+name = "Blog"
+URL = "blog"
 weight = 3
 
 # [[menu.main]]
-# name = "Blog"
-# URL = "blog"
 # weight = 4
+# name = "DJs"
 
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
+#  [[menu.main]]
+# parent = "Pages"
+# name = "FAQ"
+# URL = "faq"
 
   [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
+#  parent = "Pages"
+  weight = 2 
+  name = "DJs"
   URL = "pricing"
   
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 # footer menu
@@ -90,41 +85,36 @@ URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "Project"
-URL = "project"
+name = "DJs"
+URL = "djs"
 weight = 2
 
 [[menu.footer]]
-name = "Service"
-URL = "service"
+name = "DJs"
+URL = "pricing"
 weight = 3
 
-[[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+# [[menu.footer]]
+# name = "FAQ"
+# URL = "faq"
+# weight = 4
 
 [[menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/94.9-KWYK-radio.png"
 # Meta data
-description = "This is meta description"
+description = ""
 author = "Themefisher"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+phone = "505-325-1996"
+email = "info@email.com"
+location = "1515 W Main St, Farmington, NM 87401"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -146,9 +136,9 @@ link = "contact"
 # google map
 [params.gmap]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://www.google.com/maps/@36.7312048,-108.2320123,17z"
+map_latitude = "36.7312048"
+map_longitude = "-108.2320123,17z"
 map_marker = "images/marker.png"
 
   
@@ -159,14 +149,6 @@ link = "#"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
 [[params.social]]
@@ -185,15 +167,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
