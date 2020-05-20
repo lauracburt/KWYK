@@ -27,7 +27,7 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "WE BELIEVE IN GREAT IDEAS, HOMIE"
   content : "
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
@@ -39,8 +39,8 @@ portfolio:
   "
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "Meet Djs"
+    link : "pricing"
 
 
 ############################# Service ############################
@@ -69,7 +69,7 @@ funfacts:
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
+      name : "this is what i changed"
       count : "99"
       
     # funfacts item loop
