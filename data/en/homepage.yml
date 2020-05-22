@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/KWYKbg.jpg"
-  title : "94.9FM KWYK Radio"
+  title : "94.9 FM KWYK"
   content : "Music from the 90s and now"
   button:
     enable : true
