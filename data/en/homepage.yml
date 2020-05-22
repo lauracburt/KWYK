@@ -26,7 +26,7 @@ portfolio:
   content : ""
   button:
     enable : true
-    label : "EEO"
+    label : "FCC Public Inspection File (EEO)"
     link : "https://publicfiles.fcc.gov/fm-profile/kwyk-fm"
 
 
