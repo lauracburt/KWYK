@@ -2,5 +2,5 @@
 title: "Drop Us A Note"
 description: ""
 draft: false
-bg_image: "images/mixingboardclosup.jpg"
+bg_image: "images/litmixerboard.jpg"
 ---
