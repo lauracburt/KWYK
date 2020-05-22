@@ -2,5 +2,5 @@
 title: "About Our Company"
 description: "KWYK"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/mixingboardclosup.jpg"
 ---
