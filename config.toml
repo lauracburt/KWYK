@@ -52,10 +52,10 @@ weight = 1
 #URL = "djs"
 #weight = 2
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 3
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 3
 
 # [[menu.main]]
 # weight = 4
@@ -144,21 +144,20 @@ map_marker = "images/marker.png"
   
 ############################# social site ########################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.facebook.com/KwykRadio"
 
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+#[[params.social]]
+#icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
+
+#[[params.social]]
+#icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "#"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
 
 ################################ English Language ########################
 [Languages.en]
@@ -168,4 +167,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright KWYK 2020. All Rights Reserved. [Themefisher](https://themefisher.com)"

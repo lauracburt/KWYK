@@ -3,43 +3,28 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Basic"
-      price: "$121,299"
-      content : "Perfect for single freelancers who work by themselves"
+    - name : "Meet"
+      price: "Cody Mello"
+      content : "Making your mornings brighter."
+
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+  
         
     # pricing table loop
-    - name : "Premium"
-      price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
+    - name : "Meet"
+      price: "Jamie Osborne"
+      content : "Making your afternoons fly by."
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
         
     # pricing table loop
-    - name : "Advance"
-      price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
+    - name : "Meet"
+      price: "John Doe"
+      content : "Keeping your nights rocking."
+      
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
         
 ############################# call to action #################################
 cta:
