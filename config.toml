@@ -107,7 +107,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/94.9-KWYK-radio.png"
+logo = "images/94.9-KWYK-new.png"
 # Meta data
 description = ""
 author = "Themefisher"
