@@ -1,3 +1,6 @@
 [submodule "themes/airspace-hugo"]
 	path = themes/airspace-hugo
 	url = https://github.com/themefisher/airspace-hugo.git
+[submodule "airspace-hugo"]
+	path = airspace-hugo
+	url = https://github.com/themefisher/airspace-hugo.git
