@@ -8,6 +8,7 @@ banner:
     enable : true
     label : "Listen Now"
     link : "https://rdo.to/KWYKFM"
+    target : "_blank"
 
 ############################# About #################################
 about:
