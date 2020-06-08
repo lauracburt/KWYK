@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://mystifying-curie-8264cb.netlify.app/"
+baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
 title = "KWYK"
 theme = "airspace-hugo"
 # post pagination
