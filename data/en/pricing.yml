@@ -3,8 +3,8 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Meet"
-      price: "Cody Mello"
+    - name : "Morning Show"
+      price: "Jamie Osborne"
       content : "Making your mornings brighter."
 
       link : "#"
@@ -12,15 +12,15 @@ pricing:
   
         
     # pricing table loop
-    - name : "Meet"
-      price: "Jamie Osborne"
+    - name : "Afternoon Show"
+      price: "Cody         Mellow"
       content : "Making your afternoons fly by."
       link : "#"
       services:
         
     # pricing table loop
-    - name : "Meet"
-      price: "John Doe"
+    - name : "Evening Show"
+      price: "Continuous Hits"
       content : "Keeping your nights rocking."
       
       link : "#"

@@ -47,35 +47,20 @@ name = "About"
 URL = "about"
 weight = 1
 
-#[[menu.main]]
-#name = "DJs"
-#URL = "djs"
-#weight = 2
+[[menu.main]]
+name = "Shows"
+URL = "pricing"
+weight = 2 
 
-#[[menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 3
-
-# [[menu.main]]
-# weight = 4
-# name = "DJs"
-
-#  [[menu.main]]
-# parent = "Pages"
-# name = "FAQ"
-# URL = "faq"
-
-  [[menu.main]]
-#  parent = "Pages"
-  weight = 2 
-  name = "DJs"
-  URL = "pricing"
+[[menu.main]]
+name = "Contests"
+URL = "contests"
+weight = 3
   
 [[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 5
+name = "Connect"
+URL = "connect"
+weight = 4
 
 
 # footer menu
@@ -85,24 +70,14 @@ URL = "about"
 weight = 1
 
 [[menu.footer]]
-name = "DJs"
-URL = "djs"
+name = "Shows"
+URL = "pricing"
 weight = 2
 
 [[menu.footer]]
-name = "DJs"
-URL = "pricing"
+name = "Connect"
+URL = "connect"
 weight = 3
-
-# [[menu.footer]]
-# name = "FAQ"
-# URL = "faq"
-# weight = 4
-
-[[menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 5
 
 
 #################### default parameters ################################
