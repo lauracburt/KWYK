@@ -3,7 +3,8 @@ about:
   enable : true
   title : "Let us help you win big!"
   content : "Check back for upcoming contents."
-  image : "images/company/company-group-pic.jpg"
+  image : "company-group-pic.jpg"
+
 
 
 ########################## featured service ############################
@@ -11,27 +12,27 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "Weekly Giveaway"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Making you a lucky winner weekly!"
       
     # featured service item loop
-    - name : "Product Branding"
+    - name : "Fall Giveaway"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Giving you a little getaway this fall!"
       
     # featured service item loop
-    - name : "Game Development"
+    - name : "2020 Giveaway"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Our biggest giveaway of the year!"
 
       
 ############################# Service ###############################
 service:
-  enable : true
+  enable : false
   title : "Our Services"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
