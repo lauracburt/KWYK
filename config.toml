@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://ashy-grass-014dc541e.azurestaticapps.net/"
+baseURL = "https://nice-water-0b2638f10.azurestaticapps.net"
 title = "KWYK"
 theme = "airspace-hugo"
 # post pagination

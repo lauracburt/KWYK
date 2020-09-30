@@ -18,4 +18,4 @@ point to: https://lemon-grass-094bc2f10.azurestaticapps.net
 point to: https://purple-ocean-0da662010.azurestaticapps.net
 
 6. KWYK: http://kwykradio.com/
-point to: https://ashy-grass-014dc541e.azurestaticapps.net/
+point to: https://nice-water-0b2638f10.azurestaticapps.net
