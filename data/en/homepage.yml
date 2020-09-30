@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/KWYKbg.jpg"
+  bg_image : "images/roadrunner.jpg"
   title : "94.9 FM KWYK"
   content : "Music from the 90s and now"
   button:
@@ -16,13 +16,13 @@ about:
   title : "About Us"
   description : "KWYK 94.9 FM has been a part of the 4-corners community for over 60 years, starting in 1957. We pride ourselves in being the best Adult Contemporary Music station in the region, playing the hottest hits from the 90’s and NOW!"
   content : "Thanks for letting us be a part of your day!"
-  image : "images/relaxradio.jpg"
+  image : "images/94.9-KWYK-radio.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/vertgreyantenna.jpg"
+  bg_image : "images/blueskyantenna.jpg"
   title : ""
   content : ""
   button:
